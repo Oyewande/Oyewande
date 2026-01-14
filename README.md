@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building my skills
-- 🌱 I’m currently learning python for web development
-- 👯 I’m looking to collaborate on basic projects to improve my skills
-- 🤔 I’m looking for help with python projects
+- 🔭 I’m building my skills as a frontend web developer
+- 🌱 I’m also learning python for web development
+- 🤔 I’m looking for help with DSA using python
 - 📫 How to reach me: oyewandeoyediran@gmail.com and on LinkedIn @oyewandeoyediran
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to learn new things
